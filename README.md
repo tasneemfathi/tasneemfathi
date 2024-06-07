@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-![Cover Image]([https://via.placeholder.com/1000x200](https://media.licdn.com/dms/image/D4D16AQEXMHGOQzJqGw/profile-displaybackgroundimage-shrink_350_1400/0/1717761879113?e=1723075200&v=beta&t=SRtApJTUFh7Y7zAL04KD7LIAwt9JMxUd06ilWSZ9bSQ)) <!-- Replace with your actual cover image URL -->
+![Cover Image](https://media.licdn.com/dms/image/D4D16AQEXMHGOQzJqGw/profile-displaybackgroundimage-shrink_350_1400/0/1717761879113?e=1723075200&v=beta&t=SRtApJTUFh7Y7zAL04KD7LIAwt9JMxUd06ilWSZ9bSQ) 
 
 ## About Me
 
@@ -20,9 +20,9 @@ Hi there! I'm Tasneem Fathi, a dedicated Mobile App Developer with extensive exp
 
 ## Connect with Me
 
-- **💼 LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tasneem-fathi-722573110)
-- **🐦 Twitter:** [Your Twitter Handle](https://x.com/@tasneemfathi)
-- **✉️ Email:** [Your Email Address](mailto:tasneem,alshiekh@gmail.com)
+- **💼 LinkedIn:** [@tasneemfathi](https://www.linkedin.com/in/tasneem-fathi-722573110)
+- **🐦 Twitter:** [@tasneemfathi](https://x.com/@tasneemfathi)
+- **✉️ Email:** [tasneem.alshiekh@gmail.com](mailto:tasneem.alshiekh@gmail.com)
 
 ## Let's Collaborate 🤝
 
